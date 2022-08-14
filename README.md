@@ -1,4 +1,6 @@
-# CSS-Conceptual-Questions
+# CSS Conceptual Questions
+
+> Answers will available soon <br/> Will update list of questions too.
 
 1. What is CSS and how does it work with HTML?
 
@@ -10,7 +12,7 @@
 
 5. Describe BFC (Block Formatting Context) and how it works.
 
-6.Have you ever used a grid system, and if so, what do you prefer?
+6. Have you ever used a grid system, and if so, what do you prefer?
 
 7. Have you used or implemented media queries or mobile specific layouts/CSS?
 
@@ -26,10 +28,10 @@
 
 13. What's the difference between inline and inline-block?
 
-14.What's the difference between the "nth-of-type()" and "nth-child()" selectors?
+14. What's the difference between the "nth-of-type()" and "nth-child()" selectors?
 
 15. What's the difference between a relative, fixed, absolute and statically positioned element?
 
 16. What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
 
-17.Have you used CSS Grid?
+17. Have you used CSS Grid?
